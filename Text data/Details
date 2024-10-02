@@ -1,0 +1,21 @@
+1. [30%] Preprocess the textual data to remove potential noise. Use, as a minimum, the
+following preprocessing methods: 1) removing punctuation, 2) removing numbers, 3)
+removing stop words, 4) changing the text to lower/upper case and 5) lemmatising.
+Describe in detail, with examples, the changes to the text for each preprocessing method
+applied.
+2. [30%] Using the bag-of-words/terms representation, perform classification using 3
+algorithms; present and discuss the results; compare the results of the 3 algorithms.
+3. [10%] Perform classification using a BERT-based model with fine-tuning and compare the
+results with the 3 algorithms from Task 2.
+4. [30%] Perform topic detection using 1 algorithm; present and discuss each topic, and assess
+the quality of the detected topics.
+The marking scheme [in 100% breakup of marks] for each of the tasks is as follows:
+20% - Display of results
+40% - Analysis of results
+20% - Use of tables and figures when reporting the results to facilitate understanding
+10% - Organisation, language style and clarity
+10% - The use of at least one method/algorithm not covered in the teaching sessions in
+addition to the number of methods/algorithms mentioned in the tasks; for example,
+for Task 1, 5 preprocessing methods are required; to get this 10% you need to
+include at least one more preprocessing method that was not covered in addition
+to the required 5.
