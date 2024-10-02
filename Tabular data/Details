@@ -1,0 +1,24 @@
+Intelligent Data and Text Analytics Coursework 1
+Download the 2011 UK Census dataset from the IDTA module page on Moodle.
+1. [20%] Descriptive analytics:
+a. [10%] Display and interpret basic statistics for all attributes
+b. [10%] Display and interpret 5 visualisation graphs; include one box plot and four
+visualisations that show relationships between 2 or more variables
+2. [20%] Perform classification for the “Approximate Social Grade” attribute using 3 algorithms;
+present and discuss the results; compare the results of the 3 algorithms.
+3. [20%] Perform regression on the “No of hours” attribute using 2 algorithms; present and
+discuss the results; compare the results of the 2 algorithms.
+4. [20%] Perform association rule mining using 1 algorithm and interpret the meaning of at least
+5 rules.
+5. [20%] Perform clustering using 2 algorithms; present and discuss the results; compare the
+results of the 2 algorithms.
+The marking scheme [in 100% breakup of marks] for each of the tasks is as follows:
+20% - Display of results
+40% - Analysis of results
+20% - Use of tables and figures when reporting the results to facilitate understanding
+10% - Organisation, language style and clarity
+10% - The use of at least one method/algorithm not covered in the teaching sessions in
+addition to the number of methods/algorithms mentioned in the tasks; for
+example, for Task 1, 5 visualisations are required; to get this 10% you need to
+include at least one more visualisation that was not covered in addition to the
+required 5.
